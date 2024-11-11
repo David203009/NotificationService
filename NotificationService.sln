@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService", "NotificationService\NotificationService.csproj", "{AFCCB27D-86B2-4D82-834F-799690683B09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService", "NotificationService\NotificationService.csproj", "{AFCCB27D-86B2-4D82-834F-799690683B09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificacionesAPI", "D:\Alcaldia\SignalR\Version SignalR Basica\ApiSignalR\NotificacionesAPI\NotificacionesAPI\NotificacionesAPI.csproj", "{6549A0A6-6704-401C-A24A-9168624AF9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_wirhAPI", "D:\Alcaldia\SignalR\Version SignalR Basica\SignalR_wirhAPI\SignalR_wirhAPI\SignalR_wirhAPI\SignalR_wirhAPI.csproj", "{22E46876-290E-4540-9527-C65BC01DCBDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AFCCB27D-86B2-4D82-834F-799690683B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFCCB27D-86B2-4D82-834F-799690683B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFCCB27D-86B2-4D82-834F-799690683B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6549A0A6-6704-401C-A24A-9168624AF9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6549A0A6-6704-401C-A24A-9168624AF9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6549A0A6-6704-401C-A24A-9168624AF9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6549A0A6-6704-401C-A24A-9168624AF9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E46876-290E-4540-9527-C65BC01DCBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E46876-290E-4540-9527-C65BC01DCBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E46876-290E-4540-9527-C65BC01DCBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E46876-290E-4540-9527-C65BC01DCBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
